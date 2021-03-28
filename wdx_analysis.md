@@ -21,4 +21,10 @@ The above line plot of the fossil fuel consumption percentage of asian country J
 <p align="center">
   <img width="900" height="300" src="https://github.com/RohiniSalla/world_development_explorer/blob/main/charts/merge_from_ofoct.jpg">
 </p>
-It is obvious to think that, CO2 emission percentage will increase with increase in fossil fuel consumption but from the above line plot we can observe that in United states, although the dependency on the fossil fuel is gradually decreasing, there is increase in CO2 emissions for the each respective year.
+It is obvious to think that, CO2 emission percentage will increase with increase in fossil fuel consumption but from the above line plot above, we can observe that in United states, although the dependency on the fossil fuel is gradually decreasing, there is increase in CO2 emissions for the each respective year. So it is clear, that fossil fuel is not the only contributer of the CO2 gas emission. Let us look at further analysis on this
+
+<p align="center">
+  <img width="900" height="500" src="https://github.com/RohiniSalla/world_development_explorer/blob/main/charts/newplot%20(8)%20(1).png">
+</p>
+
+From the further analysis on the mortality from CVD, cancer, diabetes and CRD for the 3 countries, we can notice that, since the emission of CO2 in germany is reduced from 2010 there is a noticeable decrease in mortality rate of the diseases caused due to environmental damage. For the countries, United states and Japan where the CO2 emissions are increasing gradually, the mortality rate of the diseases was decreased very slightly. So, CO2 emissions quanity is not only the primary factor that needs to be considered for analyzing the impact on health. Therefore, the other pollutant quantities also needs to be analyzed for the deep research
