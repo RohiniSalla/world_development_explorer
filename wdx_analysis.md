@@ -4,22 +4,13 @@ The World Bank holds huge amount of data and categorized them to various indicat
 The fossil fuels include most of the non-renewable energy resources such as Coal, Petroleum products,  Nuclear energy etc. which are used for electricity generation, Transport, plastic products etc. These industries, vehicles and factories that generates electricity releases tremedous amounts of pollutants such as CO2, NO2	 etc. in to air and water causing severe damage to the environment. This will cause severe damage to the all life forms and is not limited to humans. The diseases that are primarliy linked to airpollution includes, strokes, CVD, Cancers and chronic respiratory infections. The analysis from the data of the three key economic powers of Asia, Europe and North america will helps us understand the change, impacts and other factors contributing to the scenario. The comparison of fossil fuel consumption needs to be done between the 3 countries USA, Germany and Japan. For further analysis, the CO2 emission quantities of these countries will help us understand if that is the primary factor of the impact on health and there is a relation between the two. If not there is a need to look at other contributers for the analysis and research on the hypothesis.
 
 <p align="center">
-  <img width="500" height="300" src="https://github.com/RohiniSalla/world_development_explorer/blob/main/charts/newplot%20(1).png">
+  <img width="500" height="300" src="https://github.com/RohiniSalla/world_development_explorer/blob/main/charts/Fossil_fuel_cosumption.png">
 </p>
-From the above graph we can see that, the consumption of the fossil fuels (%) in the united states is gradually decreasing.
+
+From the above graph we can see that, the consumption of the fossil fuels (%) in the united states is gradually decreasing. It is clear that, germany has been reducing its fossil fuel dependency for energy from the past decade. The above line plot of the fossil fuel consumption percentage of asian country Japan is on contrast to its north american and european counter parts, where there is high usage of fossil fuels for energy purpose
 
 <p align="center">
-  <img width="500" height="300" src="https://github.com/RohiniSalla/world_development_explorer/blob/main/charts/newplot%20(3).png">
-</p>
-It is clear that, germany has been reducing its fossil fuel dependency for energy from the past decade
-
-<p align="center">
-  <img width="500" height="300" src="https://github.com/RohiniSalla/world_development_explorer/blob/main/charts/newplot%20(2).png">
-</p>
-The above line plot of the fossil fuel consumption percentage of asian country Japan is on contrast to its north american and european counter parts, where there is high usage of fossil fuels for energy purpose
-
-<p align="center">
-  <img width="900" height="700" src="https://github.com/RohiniSalla/world_development_explorer/blob/main/charts/CO2_emissions.png">
+  <img width="900" height="600" src="https://github.com/RohiniSalla/world_development_explorer/blob/main/charts/CO2_emissions.png">
 </p>
 It is obvious to think that, CO2 emission percentage will increase with increase in fossil fuel consumption but from the above line plot above, we can observe that in United states, although the dependency on the fossil fuel is gradually decreasing, there is increase in CO2 emissions for the each respective year. So it is clear, that fossil fuel is not the only contributer of the CO2 gas emission. Let us look at further analysis on this
 
