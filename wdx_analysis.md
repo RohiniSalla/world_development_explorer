@@ -25,13 +25,14 @@ From the further analysis on the mortality from CVD, cancer, diabetes and CRD fo
 <p align="center">
   <img width="900" height="600" src="https://github.com/RohiniSalla/world_development_explorer/blob/main/charts/bub_1.png">
 </p>
+From the year 2005 to 2010 the germany had the highest CO2 emissions and Japan had the lowest but United states had the highest fuel consumptuon percentage.
 
 <p align="center">
   <img width="900" height="600" src="https://github.com/RohiniSalla/world_development_explorer/blob/main/charts/bub_2.png">
 </p>
+In the year 2010, United states CO2 emission percentage increased to that of germany. Furthermore, the Japan's CO2 content in the atmosphjere is also increased.
 
 <p align="center">
   <img width="900" height="600" src="https://github.com/RohiniSalla/world_development_explorer/blob/main/charts/bub_3.png">
 </p>
-
-From the above bar graph, we can see that although there is an increase in CO2 emissions in the united states, the PM2.5 exposure in the US is decreased gradually. Therefore, the analysis on the other contributing factors help us in finding the answers.
+By the year 2015, the fuel dependency is increased in the japan, showing similar change in the CO2 emissions and mortality rate percentage of diseases from air pollutants.
