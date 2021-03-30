@@ -7,21 +7,20 @@ The fossil fuels include most of the non-renewable energy resources such as Coal
   <img width="900" height="600" src="https://github.com/RohiniSalla/world_development_explorer/blob/main/charts/Fossil_fuel_cosumption.png">
 </p>
 
-From the above graph we can see that, the consumption of the fossil fuels (%) in the united states is gradually decreasing. It is clear that, germany has been reducing its fossil fuel dependency for energy from the past decade. The above line plot of the fossil fuel consumption percentage of asian country Japan is on contrast to its north american and european counter parts, where there is high usage of fossil fuels for energy purpose
+From the above graph we can see that, the consumption of the fossil fuels (%) in the united states is gradually decreasing. It is clear that, germany has been reducing its fossil fuel dependency for energy from the 2005 to 2015. The fossil fuel consumption percentage of asian country Japan, shows decreased use from 2005 to 2010, has abruplty increased its fossil fuel consumption from 2010 to 2015.
 
 <p align="center">
   <img width="900" height="600" src="https://github.com/RohiniSalla/world_development_explorer/blob/main/charts/CO2_emissions.png">
 </p>
-It is obvious to think that, CO2 emission percentage will increase with increase in fossil fuel consumption but from the above line plot above, we can observe that in United states, although the dependency on the fossil fuel is gradually decreasing, there is increase in CO2 emissions for the each respective year. So it is clear, that fossil fuel is not the only contributer of the CO2 gas emission. Let us look at further analysis on this
+
+It is obvious to think that, CO2 emission percentage will increase with increase in fossil fuel consumption but from the above line plot above, we can observe that in United states and Japan, there is increase in CO2 emissions from 2005 to 2015. In contrast, Germany showed reduction in  CO2 emissions from the year 2010. So it is clear that, the government policies on the environment protection is a factor that needs to be considered. Let us look at further analysis on this
 
 <p align="center">
   <img width="900" height="600" src="https://github.com/RohiniSalla/world_development_explorer/blob/main/charts/Diseases_countries.png">
 </p>
 
-From the further analysis on the mortality from CVD, cancer, diabetes and CRD for the 3 countries, we can notice that, since the emission of CO2 in germany is reduced from 2010 there is a noticeable decrease in mortality rate of the diseases caused due to environmental damage. For the countries, United states and Japan where the CO2 emissions are increasing gradually, the mortality rate of the diseases was decreased very slightly. So, CO2 emissions quanity is not only the primary factor that needs to be considered for analyzing the impact on health. Therefore, the other pollutant quantities also needs to be analyzed for the deep research.
+From the further analysis on the mortality from CVD, cancer, diabetes and CRD for the 3 countries, we can notice from the line plot that, although the mortality rate for the diseases in all the 3 countries showed decreasing but America holds highest number in 2015, followed by germany and Japan. This reduction in mortality rate is encouraging but the improvement in health care sector, awareness towards government policies, literacy rate, science and technology improvements from 2005 to 2015 might be the primary cause.
 
-
-The PM2.5 data of these countries could be helpful for further research. The Particulate Matter 2.5 is a mixture of not a single air pollutant but rather a mixture of various chemicals in the air from different sources.
 
 <p align="center">
   <img width="900" height="600" src="https://github.com/RohiniSalla/world_development_explorer/blob/main/charts/bub_1.png">
