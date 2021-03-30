@@ -28,11 +28,11 @@ The PM2.5 data of these countries could be helpful for further research. The Par
 </p>
 
 <p align="center">
-  <img width="900" height="600" src="https://github.com/RohiniSalla/world_development_explorer/blob/main/charts/bub_1.png">
+  <img width="900" height="600" src="https://github.com/RohiniSalla/world_development_explorer/blob/main/charts/bub_2.png">
 </p>
 
 <p align="center">
-  <img width="900" height="600" src="https://github.com/RohiniSalla/world_development_explorer/blob/main/charts/bub_1.png">
+  <img width="900" height="600" src="https://github.com/RohiniSalla/world_development_explorer/blob/main/charts/bub_3.png">
 </p>
 
 From the above bar graph, we can see that although there is an increase in CO2 emissions in the united states, the PM2.5 exposure in the US is decreased gradually. Therefore, the analysis on the other contributing factors help us in finding the answers.
